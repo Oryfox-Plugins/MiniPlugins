@@ -1,5 +1,5 @@
 name: StarterPlugin
-main: de.oryfox.Starter
+main: de.oryfox.UndoPath
 version: 1
 api-version: 1.20
 author: Oryfox
